@@ -29,4 +29,4 @@ namespace MyApp // Note: actual namespace depends on the project name.
         { return n1 * n2; }
 
     }
-} // modificare il codice per richiedere alla console due numeri interi e stamparne il prodotto
+}
